@@ -7,8 +7,8 @@ body {
   background: url(https://media.istockphoto.com/photos/the-man-standing-on-the-mountain-on-the-picturesque-sunrise-picture-id1148587647?k=20&m=1148587647&s=612x612&w=0&h=Kwv5SK78vSaGYQ2rmGM4Tzirp6ieALdihPmZVGrWE2A=),
   rgb(161, 161, 175);
  
-  background-attachment: scroll, local;
-  background-size: contain, contain;
+  background-attachment: fixed;
+  background-size: cover;
   background-repeat: no-repeat, no-repeat;
   background-position: top, bottom;
   font-family: Helvetica, Arial, sans-serif;
